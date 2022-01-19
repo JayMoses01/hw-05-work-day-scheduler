@@ -34,8 +34,6 @@ textarea {
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;
-  text-align: center;/*JRM: I added*/
-  vertical-align: center;/*JRM: I added*/
 }
 
 .hour {
@@ -65,7 +63,6 @@ textarea {
   border-bottom-right-radius: 15px;
   background-color: #06aed5;
   color: white;
-  height: 80px; /*JRM: I added*/
 }
 
 .saveBtn i:hover {
